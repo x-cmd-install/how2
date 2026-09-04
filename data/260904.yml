@@ -7,7 +7,7 @@ about:
   head: 4e15373
   archived: false
   latestVersion: v3.0.3
-  collectedAt: 2026-09-04T19:52:40Z
+  collectedAt: 2026-09-04T20:47:02Z
 timeline:
   created: 2016-02-13
   lastCommit: 2022-10-28
@@ -82,6 +82,39 @@ total:
   openIssue: 3
   commit: 233
 ---
+path: /home/runner/.x-repo/github.com/santinic/how2
+collectedAt: 2026-09-04T20:47:03Z
+loc:
+  Json:
+    code: 5078
+    comments: 0
+    blanks: 0
+    files: 2
+  JavaScript:
+    code: 923
+    comments: 123
+    blanks: 127
+    files: 20
+  Sh:
+    code: 21
+    comments: 17
+    blanks: 12
+    files: 1
+  Dockerfile:
+    code: 5
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 77
+    blanks: 50
+    files: 2
+total:
+  code: 6027
+  comments: 217
+  blanks: 189
+  files: 26
 ---
 date: "2026-08-24"
 repo:
