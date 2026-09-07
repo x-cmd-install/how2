@@ -5,7 +5,7 @@ about:
   head: 4e15373
   archived: false
   latestVersion: "v3.0.3"
-  collectedAt: 2026-09-07T05:43:41Z
+  collectedAt: 2026-09-07T18:46:30Z
 timeline:
   created: 2016-02-13
   lastCommit: 2022-10-28
@@ -17,7 +17,7 @@ popularity:
   release: 4
   contributor: 13
   pullRequest: 49
-  issue: 74
+  issue: 75
 language:
   JavaScript: 31445
   Shell: 1192
@@ -30,7 +30,7 @@ recent:
     mergedPR: 0
     openPR: 0
     closedIssue: 0
-    openIssue: 0
+    openIssue: 1
     commit: 0
   last60d:
     since: 2026-07-09
@@ -38,7 +38,7 @@ recent:
     mergedPR: 0
     openPR: 0
     closedIssue: 0
-    openIssue: 0
+    openIssue: 1
     commit: 0
   last90d:
     since: 2026-06-09
@@ -46,7 +46,7 @@ recent:
     mergedPR: 0
     openPR: 0
     closedIssue: 0
-    openIssue: 0
+    openIssue: 1
     commit: 0
   last180d:
     since: 2026-03-11
@@ -54,7 +54,7 @@ recent:
     mergedPR: 0
     openPR: 0
     closedIssue: 0
-    openIssue: 0
+    openIssue: 1
     commit: 0
   last360d:
     since: 2025-09-12
@@ -62,7 +62,7 @@ recent:
     mergedPR: 0
     openPR: 0
     closedIssue: 0
-    openIssue: 1
+    openIssue: 2
     commit: 0
   last720d:
     since: 2024-09-17
@@ -70,18 +70,18 @@ recent:
     mergedPR: 0
     openPR: 0
     closedIssue: 0
-    openIssue: 3
+    openIssue: 4
     commit: 0
 total:
   release: 4
   mergedPR: 22
   openPR: 3
   closedIssue: 71
-  openIssue: 3
+  openIssue: 4
   commit: 233
 ---
 path: /home/runner/.x-repo/github.com/santinic/how2
-collectedAt: 2026-09-07T05:43:42Z
+collectedAt: 2026-09-07T18:46:31Z
 loc:
   Json:
     code: 5078
@@ -218,7 +218,7 @@ checks:
       - 'Warn: branch protection not enabled for branch ''master'''
 ---
 eget:
-  collectedAt: 2026-09-07T05:43:42+00:00
+  collectedAt: 2026-09-07T18:46:32+00:00
   platform:
     darwin/arm64:
       name:  null
