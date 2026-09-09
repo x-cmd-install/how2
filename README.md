@@ -7,7 +7,7 @@ AI for the Command Line
 - **Latest release**: `v3.0.3` (2022-10-22)
 - **Last commit**: 2022-10-28
 - **License**: MIT
-- **Stars**: 5769 · **Forks**: 152 · **Open issues**: 75 · **Contributors**: 13
+- **Stars**: 5770 · **Forks**: 152 · **Open issues**: 75 · **Contributors**: 13
 
 ## Installation
 
@@ -21,4 +21,4 @@ See <https://x-cmd.com/install/how2> for details.
 
 This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-09T05:57:05Z._
+_Last regenerated: 2026-09-09T20:07:31Z._
