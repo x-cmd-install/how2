@@ -7,7 +7,7 @@ about:
   latestVersion: "v3.0.3"
   latestRelease: "v3.0.3"
   latestPrerelease: "v3.0.1-alpha"
-  collectedAt: 2026-09-11T05:45:17Z
+  collectedAt: 2026-09-11T19:10:47Z
 timeline:
   created: 2016-02-13
   lastCommit: 2022-10-28
@@ -85,7 +85,7 @@ total:
   commit: 233
 ---
 path: /home/runner/.x-repo/github.com/santinic/how2
-collectedAt: 2026-09-11T05:45:17Z
+collectedAt: 2026-09-11T19:10:48Z
 loc:
   Json:
     code: 5078
